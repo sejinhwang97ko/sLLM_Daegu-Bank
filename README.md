@@ -11,3 +11,5 @@
 (데이터전처리.ipynb 는 law_page1to50.json 을 활용)
 
   - law_rere.json
+ 
+  - **Polyglot-ko 12.8B QLoRA 학습하기_ 법령.ipynb**
